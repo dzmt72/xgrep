@@ -1,0 +1,1 @@
+This project is a learning exercise focused on improving the functionality of `grep` (inspired by [ripgrep](https://github.com/BurntSushi/ripgrep)). The goal is to explore the internals of these tools, experiment with optimizations, and enhance their performance or usability.
